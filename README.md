@@ -1,5 +1,5 @@
 # 열매 SQL 코딩 컨벤션
-- 참고자료
+- 참고자료123123123123123123213
     - https://handbook.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/
 ## 목차
 
